@@ -63,7 +63,7 @@ function App() {
     {
       nombre: "FOCUS & GET THINGS DONE FAST",
       icon: iconfocus,
-      ganador: "Noemi Macedo",
+      ganador: "Aranza Morales",
       personas: [
         { nombre: "David Rosario" },
         { nombre: "David y Serch" },
@@ -92,7 +92,7 @@ function App() {
     { nombre: "Tania Lara" }
   ];
 
-  const ganadorFinal = "André López";
+  const ganadorFinal = "Tania Lara";
 
   const [fase, setFase] = useState("login");
   const [usuario, setUsuario] = useState("");
